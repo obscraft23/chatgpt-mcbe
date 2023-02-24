@@ -2,4 +2,10 @@
 chatgpt for Minecraft Bedrock
 
 ## Colab demos
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/obscraft23/ipy-mcbe-edit/blob/master/mcberepair_wrapper_jp.ipynb) (日本語)
+
+### English
+Coming soon!
+
+### 日本語
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/obscraft23/chatgpt-mcbe/blob/master/chatgpt_wrapper_mcbe.demo.jp.ipynb)
